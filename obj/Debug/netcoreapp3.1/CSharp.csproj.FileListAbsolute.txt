@@ -1,0 +1,13 @@
+/home/chihyu/Desktop/Becode-Projects/C#/CSharp/bin/Debug/netcoreapp3.1/CSharp
+/home/chihyu/Desktop/Becode-Projects/C#/CSharp/bin/Debug/netcoreapp3.1/CSharp.deps.json
+/home/chihyu/Desktop/Becode-Projects/C#/CSharp/bin/Debug/netcoreapp3.1/CSharp.runtimeconfig.json
+/home/chihyu/Desktop/Becode-Projects/C#/CSharp/bin/Debug/netcoreapp3.1/CSharp.runtimeconfig.dev.json
+/home/chihyu/Desktop/Becode-Projects/C#/CSharp/bin/Debug/netcoreapp3.1/CSharp.dll
+/home/chihyu/Desktop/Becode-Projects/C#/CSharp/bin/Debug/netcoreapp3.1/CSharp.pdb
+/home/chihyu/Desktop/Becode-Projects/C#/CSharp/obj/Debug/netcoreapp3.1/CSharp.csprojAssemblyReference.cache
+/home/chihyu/Desktop/Becode-Projects/C#/CSharp/obj/Debug/netcoreapp3.1/CSharp.csproj.CoreCompileInputs.cache
+/home/chihyu/Desktop/Becode-Projects/C#/CSharp/obj/Debug/netcoreapp3.1/CSharp.AssemblyInfoInputs.cache
+/home/chihyu/Desktop/Becode-Projects/C#/CSharp/obj/Debug/netcoreapp3.1/CSharp.AssemblyInfo.cs
+/home/chihyu/Desktop/Becode-Projects/C#/CSharp/obj/Debug/netcoreapp3.1/CSharp.dll
+/home/chihyu/Desktop/Becode-Projects/C#/CSharp/obj/Debug/netcoreapp3.1/CSharp.pdb
+/home/chihyu/Desktop/Becode-Projects/C#/CSharp/obj/Debug/netcoreapp3.1/CSharp.genruntimeconfig.cache
